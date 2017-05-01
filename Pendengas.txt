@@ -1,0 +1,44 @@
+
+
+raspberry autorun program:
+https://raspberrypi.stackexchange.com/questions/28199/raspberry-pi-starting-programs-automatically-on-startup
+https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
+
+
+python service:
+
+http://stackoverflow.com/questions/1603109/how-to-make-a-python-script-run-like-a-service-or-daemon-in-linux
+https://web.archive.org/web/20160305151936/http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/
+https://pypi.python.org/pypi/python-daemon/
+
+
+
+python gui:
+
+
+python i2c:
+http://www.arduinoecia.com.br/2016/12/como-usar-display-lcd-i2c-raspberry-pi.html
+i2cdetect -y 1
+http://www.raspberrypi-spy.co.uk/2015/05/using-an-i2c-enabled-lcd-screen-with-the-raspberry-pi/
+
+
+
+http://stackoverflow.com/questions/13564851/generate-keyboard-events
+
+
+
+RC522
+https://www.google.com.br/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=raspberry+rc522
+http://blog.filipeflop.com/embarcados/controle-de-acesso-rfid-com-raspberry-pi.html
+http://www.dobitaobyte.com.br/configurar-o-leitor-rfid-mfrc522-rc522-no-raspberry-pi/
+https://github.com/ondryaso/pi-rc522
+https://www.raspberrypi.org/forums/viewtopic.php?t=75003&p=537193
+
+
+
+pause sleep delay
+http://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
+
+
+
